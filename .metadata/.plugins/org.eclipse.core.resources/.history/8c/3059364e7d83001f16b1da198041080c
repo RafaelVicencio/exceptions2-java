@@ -1,0 +1,15 @@
+package entities;
+
+public class Account {
+	
+	Integer number;
+	String holder;
+	Double balance;
+	double withdrawLimit;
+	
+	public Account() {
+	}
+
+	
+	
+}

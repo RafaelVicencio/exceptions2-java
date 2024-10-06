@@ -1,0 +1,23 @@
+package entities;
+
+public class Account {
+	
+	Integer number;
+	String holder;
+	Double balance;
+	double withdrawLimit;
+	
+	public Account() {
+	}
+
+	public Account(Integer number, String holder, Double balance, double withdrawLimit) {
+		super();
+		this.number = number;
+		this.holder = holder;
+		this.balance = balance;
+		this.withdrawLimit = withdrawLimit;
+	}
+
+	
+	
+}

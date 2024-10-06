@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\rafa-\aula-excecoes\.metadata\.plugins\org.eclipse.jdt.core
+1372551170.index
+1865797976.index
+1696264553.index
